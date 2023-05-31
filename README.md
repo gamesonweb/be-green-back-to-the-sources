@@ -16,3 +16,9 @@ Ils seront de difficulté croissante et les premiers niveaux permettront aux jou
 
 ### Lien vers le jeu :
 https://julienbru.github.io/
+
+### Lien vers la vidéo de démonstration :
+(Sans musique)
+https://youtu.be/7gYvngU64Ss
+(Avec musique)
+https://youtu.be/YEqnHUwuLbc
